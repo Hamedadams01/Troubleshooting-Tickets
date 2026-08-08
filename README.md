@@ -1,6 +1,10 @@
 # Troubleshooting Tickets
 
  ### Troubleshooting Methodology
+- [Offboarding ](https://github.com/Hamedadams01/User-Offboarding-Procedure/blob/main/README.md)
+- [Account Lockout Troubleshooting](https://github.com/Hamedadams01/Account-Lockout-Troubleshooting/blob/main/README.md)
+- [No Internet Troubleshooting](https://github.com/Hamedadams01/Troubleshooting-No-Internet-Connection/blob/main/README.md)
+- [Root Cause Lockout Investigation](https://github.com/Hamedadams01/Root-Cause-Lockout-Investigation/blob/main/README.md)
 
 
 This project demonstrates a structured Help Desk troubleshooting process for managing and resolving IT incidents in a simulated enterprise environment.
